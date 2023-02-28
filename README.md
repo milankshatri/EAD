@@ -1,5 +1,5 @@
 # EAD
-Name: Milan Chhetri
+Name: Milan Chhetri \
 BE2018SE20
  
 EAD labs and assignment
